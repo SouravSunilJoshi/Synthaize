@@ -1,3 +1,4 @@
 # Synthaize
 
-Live Demo : (https://synthaize.netlify.app/)
+[Live Demo](https://synthaize.netlify.app/)
+
